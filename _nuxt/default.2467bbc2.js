@@ -1,0 +1,1 @@
+import{_ as s,i as e,v as a,z as o,L as c,t as p}from"./entry.dd71e235.js";const _={};function l(t,d){const n=e("AppHeader"),r=e("AppFooter");return p(),a("div",null,[o(n),c(t.$slots,"default"),o(r)])}const m=s(_,[["render",l]]);export{m as default};
